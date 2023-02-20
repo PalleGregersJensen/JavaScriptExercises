@@ -140,6 +140,16 @@ body {
     animation-direction: alternate;
 }
 
+
+.jump1 {
+    animation-name: jump;
+    animation-duration: .3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-delay: 3s;
+}
+
+
 .jump-once {
     animation-name: jump;
     animation-duration: .3s;
