@@ -7,6 +7,6 @@ function start() {
 }
 
 function jump1() {
-  document.querySelector("#orange_container").classList. remove ("move");
+  document.querySelector("#orange_container").classList.remove("move");
   document.querySelector("#orange_sprite").classList.add("jump1");
 }
